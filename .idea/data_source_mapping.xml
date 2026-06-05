@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/01_ddl_tables.sql" value="01d6ff24-3717-48f7-95f9-9223b90721fc" />
+    <file url="file://$PROJECT_DIR$/02_functions.sql" value="01d6ff24-3717-48f7-95f9-9223b90721fc" />
+    <file url="file://$PROJECT_DIR$/03_procedures.sql" value="01d6ff24-3717-48f7-95f9-9223b90721fc" />
+    <file url="file://$PROJECT_DIR$/04_triggers.sql" value="01d6ff24-3717-48f7-95f9-9223b90721fc" />
+    <file url="file://$PROJECT_DIR$/05_views.sql" value="01d6ff24-3717-48f7-95f9-9223b90721fc" />
+    <file url="file://$PROJECT_DIR$/06_materialized_views.sql" value="01d6ff24-3717-48f7-95f9-9223b90721fc" />
+    <file url="file://$PROJECT_DIR$/07_sample_data.sql" value="01d6ff24-3717-48f7-95f9-9223b90721fc" />
+    <file url="file://$PROJECT_DIR$/08_demo_queries.sql" value="01d6ff24-3717-48f7-95f9-9223b90721fc" />
+  </component>
+</project>
